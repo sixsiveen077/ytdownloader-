@@ -1,0 +1,25 @@
+nohup: ignoring input
+
+==============================
+  YouTube Downloader CLI App
+==============================
+
+╭───────────────────────────╮
+│ 🎬 YouTube Downloader Pro │
+╰───────────────────────────╯
+
+📌 Select an option:
+
+[1] 📹 Download Video
+[2] 🎧 Download Audio
+[3] 📂 Download Playlist
+[5] 📜 View History
+[4] ❌ Exit
+
+👉 Enter choice: Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/ytdownloader/main.py", line 30, in <module>
+    choice = show_menu()
+  File "/data/data/com.termux/files/home/ytdownloader/ui/menu.py", line 22, in show_menu
+    choice = input("👉 Enter choice: ")
+             ~~~~~^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 9] Bad file descriptor

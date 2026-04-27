@@ -1,0 +1,12 @@
+{
+  "app_name": "YouTube Downloader CLI",
+  "version": "1.0",
+  "download_path": "/storage/emulated/0/YouTubeDownloader",
+  "folders": {
+    "video": "/storage/emulated/0/YouTubeDownloader/videos",
+    "audio": "/storage/emulated/0/YouTubeDownloader/audio",
+    "playlist": "/storage/emulated/0/YouTubeDownloader/playlists"
+  },
+  "max_retries": 3,
+  "auto_retry": true
+}

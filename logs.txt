@@ -1,0 +1,12 @@
+[2026-04-22 09:48:05] [0;31mERROR:[0m [youtube] aEy65CdN8y8: Requested format is not available. Use --list-formats for a list of available formats
+[2026-04-22 09:58:40] [0;31mERROR:[0m [youtube] siDLgxNEbP8: Requested format is not available. Use --list-formats for a list of available formats
+[2026-04-22 10:02:28] [0;31mERROR:[0m [youtube] 2eliQ_KR8yA: Requested format is not available. Use --list-formats for a list of available formats
+[2026-04-22 10:03:07] [0;31mERROR:[0m [youtube] 2eliQ_KR8yA: Requested format is not available. Use --list-formats for a list of available formats
+[2026-04-22 10:09:16] Video downloaded
+[2026-04-22 10:28:18] Video downloaded successfully
+[2026-04-22 10:35:10] Video downloaded successfully
+[2026-04-22 10:56:00] Video downloaded successfully
+[2026-04-22 14:22:06] Video downloaded successfully
+[2026-04-27 08:05:56] [0;31mERROR:[0m [download] Got error: [Errno 101] Network is unreachable. Giving up after 10 retries
+[2026-04-27 08:38:55] Video downloaded successfully
+[2026-04-27 08:45:23] Audio downloaded successfully
